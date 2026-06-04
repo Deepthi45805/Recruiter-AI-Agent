@@ -1,0 +1,34 @@
+VEMAVARAPU DEEPTHI
+Email: vemavarapudeepthi203@gmail.com | LinkedIn: linkedin.com/in/vemavarapu-deepthi-90a054225 | GitHub: github.com/Deepthi45805
+PROFESSIONAL SUMMARY
+Computer Science Engineering student with knowledge of Python, Java, SQL, AWS Cloud, and Data Structures. Interested in cloud computing, data engineering, AI, and software development with hands-on internship and project experience.
+EDUCATION
+B.Tech in Computer Science and Engineering — Sreenidhi Institute of Science and Technology, Ghatkesar, Telangana (2024 – 2028) | CGPA: 8.2/10
+TECHNICAL SKILLS
+Programming: Python, Java, C, SQL
+Core Concepts: Data Structures, OOP, Problem Solving
+Cloud & Tools: AWS Cloud, Git, GitHub
+Data & AI: Python for Data Science, Prompt Engineering, Data Engineering Basics
+Soft Skills: Communication, Teamwork, Analytical Thinking
+INTERNSHIP EXPERIENCE
+AWS Data Engineering Virtual Internship (Ongoing)
+AWS Cloud Virtual Internship (Jan 2026 – Mar 2026)
+CodSoft Python Virtual Internship (Feb 2026 – Mar 2026)
+CodeAlpha Java Virtual Internship (Mar 2026 – Apr 2026)
+PROJECTS
+Health Documentation System | AWS Hackathon — Developed a cloud-based system to securely store and manage health records.
+ATM Simulation System — Built a banking simulation system supporting deposit, withdrawal, and balance inquiry functions.
+CERTIFICATIONS
+AWS Academy Graduate - Data Engineering - Training
+AWS Academy Graduate - Cloud Architecting - Training Badge
+AWS Academy Graduate - Cloud Foundations - Training Badge
+Google AI Essentials V1 Badge
+Google Prompting Essentials Badge
+Python for Data Science Badge (IBM)
+Deloitte Data Analytics Job Simulation
+JPMorgan Quantitative Research Job Simulation
+Tata GenAI Powered Data Analytics Job Simulation
+ACHIEVEMENTS & ACTIVITIES
+NSS Cadet
+SDG Walk 2047 Participant
+Internshala Student Partner
