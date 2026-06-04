@@ -1,0 +1,6 @@
+streamlit
+pandas
+pypdf
+langchain
+langchain-google-genai
+python-docx
